@@ -10,7 +10,6 @@
 \RequirePackage[margin=1in]{geometry}
 \RequirePackage{mathptmx}
 \RequirePackage{hyperref}
-\RequirePackage{import}
 
 \pagestyle{empty}
 \newcommand{\refwork}{\noindent\hangindent0.5in}
@@ -25,5 +24,3 @@
   \@startsection{section}{1}{0pt}{1em}{1ex}
   {\bfseries}
 }
-
-\endinput
